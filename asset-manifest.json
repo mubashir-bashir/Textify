@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Textify/static/css/main.b0c8768b.css",
+    "main.js": "/Textify/static/js/main.db063a2a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Textify/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.png": "/Textify/static/media/logo.ea4328bd1c13ef785cd6.png",
+    "index.html": "/Textify/index.html",
+    "main.b0c8768b.css.map": "/Textify/static/css/main.b0c8768b.css.map",
+    "main.db063a2a.js.map": "/Textify/static/js/main.db063a2a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Textify/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0c8768b.css",
+    "static/js/main.db063a2a.js"
+  ]
+}
